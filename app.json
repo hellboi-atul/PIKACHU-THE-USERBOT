@@ -1,6 +1,6 @@
 {
-  "name": "DARK PRINCE IZ BACK",
-  "description": "Userbot Kanged From Everywhere",
+  "name": "P I K A C H U",
+  "description": "🔥BEST USERBOT EVER🔥BY TEAM_PIKACHU🔥MADE WITH A LOT OF LOVE❤FOR MANAGING YOUR TELEGRAM ACCOUNT🔥",
   "logo": "https://telegra.ph/file/ef467ce9110f4dbcb7619.jpg" ,
     "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/hellboi-atul/dArK_pRiNcE/",
+  "repository": "https://github.com/TEAM-PIKACHU-INDIA/PIKACHU-THE-USERBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -27,17 +27,17 @@
       "value": "",
       "required": false
     },
-    "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @No_OnE_Kn0wS_Me .",
+    "ALIVE_NAME": 
+      "description": "Fill your Full name or Username like @myusernane56 .",
       "value": "",
       "required": false
     },
-    "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive command Leave This Part For Default msg.",
+    "AWAKE_MSG": {
+      "description": "Set Custom Alive Message When entering .awake command.",
       "value": "",
       "required": false
     },
-    "ALIVE_PHOTTO": {
+    "AWAKE_PHOTTO": {
       "description": "put here any telegraph media link for alive pic.",
       "value": "",
       "required": false
@@ -140,7 +140,7 @@
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
       "description": "Needed for autopic module. A url that is a preview link of your Profile Pic",
-      "value": "https://telegra.ph/file/2765633721f6e21a0df9e.jpg",
+      "value": "",
       "required": false
     },
     "OPEN_WEATHER_MAP_APPID": {
