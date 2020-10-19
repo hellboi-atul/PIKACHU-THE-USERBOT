@@ -1,7 +1,7 @@
 {
-  "name": "ＤａＲｋ　ｐＲｉＮｃＥ",
-  "description": "@use_dark_prince Userbot Kanged From Everywhere",
-  "logo": "https://telegra.ph/file/3952f58c07382778cab87.jpg",
+  "name": "P I K A C H U",
+  "description": "BEST USERBOT EVER BY TEAM PIKACHU🔥❤MADE WITH ❤AND SUPPOTT",
+  "logo": "",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/dArK_pRiNcE/",
+  "repository": "https://github.com/TEAM-PIKACHU-INDIA/PIKACHU-THE-USERBOT/tree/patch-1/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -28,17 +28,17 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @No_OnE_Kn0wS_Me .",
+      "description": "Fill your Full name or Username like @my_username_09 .",
       "value": "",
       "required": false
     },
-    "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive command Leave This Part For Default msg.",
+    "AWAKE_MSG": {
+      "description": "Set Custom Awake Message When entering .awake command.",
       "value": "",
       "required": false
     },
-    "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link for alive pic.",
+    "AWAKE_PHOTTO": {
+      "description": "put here any telegraph media link for awake pic.",
       "value": "",
       "required": false
     },
