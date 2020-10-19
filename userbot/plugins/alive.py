@@ -1,7 +1,7 @@
 
 """
 .alive 
-For all USER by @No_OnE_Kn0wS_Me 
+For all USER by Team Pikachu
 """
 import asyncio
 from telethon import events
@@ -14,7 +14,7 @@ from uniborg.util import admin_cmd
 async def _(event):
     if event.fwd_from:
         return
-    mentions = "`Yass, I'm alive 😉`"
+    mentions = "`Yoss, I'm alive 🔥❤`"
     chat = await event.get_input_chat()
     async for x in borg.iter_participants(chat, filter=ChannelParticipantsAdmins):
         mentions += f""
